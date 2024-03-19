@@ -19,3 +19,11 @@ output [
     label_filename: "densenet_labels.txt"
   }
 ]
+model_repository_agents
+{
+  agents [
+    {
+      name: "dragonfly",
+    }
+  ]
+}
